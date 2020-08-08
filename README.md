@@ -1,10 +1,11 @@
 # EmployeeDetails
 To display the employee details using custom management commands  in Django rest API framework
 
-
+# Get the copy of  project using git clone command
 $ git clone https://github.com/apafinal1/EmployeeDetails.git
 
-# if u get any error will cloning :
+# optional
+# if u get any error will cloning use the below command :
 # error: RPC failed; curl 56 OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054
 
 $ git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080
@@ -12,9 +13,10 @@ $ git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080
 
 $ cd EmployeeDetails
 
-# virtual envirnoment will be activated
+# To activate virtual envirnoment 
 $ source venv/Scripts/activate
 
+# change the directory to project folder.
 $ cd userdetails
 
 # Installing the pre-required packages using pip
