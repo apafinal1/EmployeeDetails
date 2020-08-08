@@ -1,0 +1,8 @@
+asgiref==3.2.10
+Django==3.1
+django-nine==0.2.3
+django-rest-framework-tricks==0.2.11
+djangorestframework==3.11.1
+pytz==2020.1
+six==1.15.0
+sqlparse==0.3.1
