@@ -28,7 +28,7 @@ $ python manage.py migrate
 # Create Super user account for login as admin
 $ python manage.py createsuperuser
 
-# Visit admin page to create a user 
+# Visit admin page to create a dummy user 
 $ python manage.py runserver
 
 # Goto browser and add some data.
@@ -44,6 +44,7 @@ $ python manage.py user --total=1
 1. open postman tool and enter the url and select "GET" request
 2. save and send the below url.
 	http://127.0.0.1:8000/final/
+3. In output select JSON format.
 
 
 
