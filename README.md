@@ -16,7 +16,7 @@ $ cd EmployeeDetails
 # To activate virtual envirnoment 
 $ source venv/Scripts/activate
 
-# change the directory to project folder.
+# change the path to project directory.
 $ cd userdetails
 
 # Installing the pre-required packages using pip
