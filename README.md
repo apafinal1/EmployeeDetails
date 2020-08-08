@@ -20,8 +20,7 @@ $ source venv/Scripts/activate
 $ cd userdetails
 
 # Installing the pre-required packages using pip
-$ pip install requirements.txt
-
+$ pip install -r requirements.txt
 
 # Migrating the tables in database
 $ python manage.py migrate
